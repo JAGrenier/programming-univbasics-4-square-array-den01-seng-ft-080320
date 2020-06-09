@@ -1,6 +1,3 @@
-#def square_array(array)
-#    Array.new(array.size) { |i| array[i] ** 2}
-#end
 
 def square_array(array)
   new_array=[]
